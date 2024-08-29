@@ -1,5 +1,11 @@
 # Tetris---Python
 
+<div align="center">
+<img src="https://github.com/Ankush1626/Tetris---Python/blob/main/Tetris.gif" align="center" style="width: 100%" />
+</div>  
+
+<br/>
+
 The goal of Tetris is to score as many points as possible by clearing horizontal lines on the game board. You do this by rotating and moving falling blocks, called "tetrominoes," to fit them together without leaving gaps.
 
 How It Works
